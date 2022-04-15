@@ -1,0 +1,1 @@
+We're showing how to export a value from `my-module.js` and use it in `module-demo.js` by requiring it

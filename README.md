@@ -1,2 +1,5 @@
-# nodejs_learning
-Node.js Learning Repository - Simple projects and POC code
+# Node.js Training Projects
+
+Node.js Learning Repository 
+
+It contains simple projects and training code from different sources.

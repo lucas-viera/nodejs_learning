@@ -4,8 +4,6 @@
 
 [Video][2]
 
-[Zeit.co][3]
-
 ## Project setup
 
 1. Create `package.json` file with `npm init --yes`
@@ -72,4 +70,3 @@
 
 [1]: https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg
 [2]: https://youtu.be/sh-NanMOh1Q
-[3]: https://www.zeit.co

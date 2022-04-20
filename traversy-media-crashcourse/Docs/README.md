@@ -1,5 +1,5 @@
 # Node.js project
-We will explore Node.js fundamentals including modules such as `path`, `url`, `fs`, events and we will create an **HTTP server** from scratch without Express and deploy to Heroku.
+We will explore Node.js fundamentals including modules such as `path`, `url`, `fs`, events and we will create an **HTTP server** from scratch without Express.
 
 
 ### What is node?
@@ -58,12 +58,24 @@ We will explore Node.js fundamentals including modules such as `path`, `url`, `f
 2. `npm install uuid`
 3. `npm install -D nodemon`
 
-## Project implementation
+## Project modules
 1. Created `index.js` file
 2. Created `person.js` file 
 3. Require `person.js` from `index.js`
 4. Investigate Node Docs for `path` module
 5. Investigate Node Docs for `fs` module
+6. Investigate Node Docs for `os` module
+7. Investigate Node Docs for `url` module
+8. Investigate Node Docs for `events` module
+9. Created a logger with `uuid` usage
+10. Investigate Node Docs for `http` module
+
+## Project implementation
+1. Use environment variable for `http` server port
+2. Modify `package.json` so that is has a `start` and `dev` script.
+  - `npm run start`
+  - `npm run dev`
+3. Implement http server with `Home` and `About` sections
 
 ## Deploy project
 - Simply run `npm install` and all dependencies will be installed from `package.json`

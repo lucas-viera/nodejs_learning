@@ -59,7 +59,11 @@ We will explore Node.js fundamentals including modules such as `path`, `url`, `f
 3. `npm install -D nodemon`
 
 ## Project implementation
-
+1. Created `index.js` file
+2. Created `person.js` file 
+3. Require `person.js` from `index.js`
+4. Investigate Node Docs for `path` module
+5. Investigate Node Docs for `fs` module
 
 ## Deploy project
 - Simply run `npm install` and all dependencies will be installed from `package.json`

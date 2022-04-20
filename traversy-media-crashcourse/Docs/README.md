@@ -1,5 +1,5 @@
 # Node.js project
-We will explore Node.js fundamentals including modules such as `path`, `url`, `fs`, events and we will create an **HTTP server** from scratch without Express.
+We will explore Node.js fundamentals including modules such as `path`, `url`, `fs`, events and we will create an **HTTP server** from scratch without Express .
 
 
 ### What is node?

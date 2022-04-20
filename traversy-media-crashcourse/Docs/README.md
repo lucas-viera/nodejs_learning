@@ -1,6 +1,7 @@
 # Node.js project
 We will explore Node.js fundamentals including modules such as `path`, `url`, `fs`, events and we will create an **HTTP server** from scratch without Express .
 
+[Link][1] to video
 
 ### What is node?
 - JavaScript Runtime - not a language or framework
@@ -80,3 +81,4 @@ We will explore Node.js fundamentals including modules such as `path`, `url`, `f
 ## Deploy project
 - Simply run `npm install` and all dependencies will be installed from `package.json`
 
+[1]: https://youtu.be/fBNz5xF-Kx4
